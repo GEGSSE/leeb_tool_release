@@ -1,0 +1,6 @@
+﻿{
+    "version":  "4.2.0",
+    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
+    "notes":  "新增远程自动更新；OCR API Key 改为本地 config.json 配置；支持重新识别覆盖/追加、保留每张图片框选区域。",
+    "sha256":  "5dccb0b68610e55e50ec8041c5ff356320ab89e528bcc0fdbb84299e2e6e3f43"
+}
