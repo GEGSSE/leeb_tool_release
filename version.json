@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.5",
+    "version":  "4.2.6",
     "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
-    "notes":  "修复远程 version.json 带 BOM 时检查更新解析失败的问题；发布清单改为 UTF-8 无 BOM，兼容旧版本更新。",
-    "sha256":  "7e7e753f22da0f8064e93306cb43b697d948aa4cc6e560cfe01ccf2f62ba6021"
+    "notes":  "继续加固远程更新：检查 version.json 时增加缓存穿透和 no-cache 请求头，避免 GitHub raw 或代理返回旧版本清单。",
+    "sha256":  "d17b3aab03725123af7b33d6efc32392af4a67768befcbac17754187e3b5a281"
 }
