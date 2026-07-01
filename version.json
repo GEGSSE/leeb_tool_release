@@ -1,6 +1,6 @@
 {
-  "version": "4.2.13",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.13",
-  "notes": "按钮改成水晶玻璃风格：默认透明、白色高光边框和轻微阴影；鼠标悬停后才显示对应功能色；选中的待识别/已识别分段按钮保留颜色用于状态区分。",
-  "sha256": "f8c44b395d3c7adcbc44d1dc3b8cbb4e6d6fdd481ec80343dfd4ab335ce15ef6"
+  "version": "4.2.14",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.14",
+  "notes": "按钮材质改成浅灰拟物水晶风格：默认灰白底、白色高光、内层灰边和柔和阴影；鼠标悬停后才显示对应功能色，更接近参考图的质感。",
+  "sha256": "f80b686cc43dd8c8e354d128a3710cd3bb6b06bf51c51b35057b660bf35dd401"
 }
