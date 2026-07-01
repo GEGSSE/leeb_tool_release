@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.9",
-    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.9",
-    "notes":  "增加识别前配置检查和 leeb_tool.log 日志；窗口标题显示真实版本号；如果读取不到 OCR API Key 会直接弹窗显示 config.json 路径，避免看起来像点击后没处理。",
-    "sha256":  "c3e0b62ee34ce6e5014311c63eddd0ecd7a41ed15009a67e388bab438155284b"
+  "version": "4.2.10",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.10",
+  "notes": "修复电脑环境变量里的旧 ModelScope Key 覆盖 config.json 的问题；现在优先使用同目录 config.json 里的 ocr.api_key，并在日志里记录 Key 来源；401 错误会提示 API Key 无效或无权限。",
+  "sha256": "9d3f299b928b2d5a2c73b65895ff55a6d6f33aa87749235e51bf0f12f75381a9"
 }
