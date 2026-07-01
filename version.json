@@ -1,6 +1,6 @@
-﻿{
-    "version":  "4.2.4",
+{
+    "version":  "4.2.5",
     "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
-    "notes":  "修复缺少 config.json 或未填写 update.url 时无法检查更新的问题；现在内置公开更新地址，config.json 主要用于 OCR Key。",
-    "sha256":  "ae63621f1ba54e77d3939fd2b3c694f986bc0fd672dfcf4f7ce5bf53dcdfe3b7"
+    "notes":  "修复远程 version.json 带 BOM 时检查更新解析失败的问题；发布清单改为 UTF-8 无 BOM，兼容旧版本更新。",
+    "sha256":  "7e7e753f22da0f8064e93306cb43b697d948aa4cc6e560cfe01ccf2f62ba6021"
 }
