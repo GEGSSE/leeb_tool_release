@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.6",
-    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.6",
-    "notes":  "继续加固远程更新：检查 version.json 时增加缓存穿透和 no-cache 请求头，避免 GitHub raw 或代理返回旧版本清单。",
-    "sha256":  "d17b3aab03725123af7b33d6efc32392af4a67768befcbac17754187e3b5a281"
+    "version":  "4.2.7",
+    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.7",
+    "notes":  "更新检查改用 GitHub API 获取 version.json，并自动兼容旧 raw 更新地址，进一步避免缓存导致读到旧版本。",
+    "sha256":  "f5a509f4f0d8c91e61cc6bc25b7e44c4ff0a1fd613edf13d219884234143906a"
 }
