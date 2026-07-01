@@ -1,6 +1,6 @@
 {
-  "version": "4.2.14",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.14",
-  "notes": "按钮材质改成浅灰拟物水晶风格：默认灰白底、白色高光、内层灰边和柔和阴影；鼠标悬停后才显示对应功能色，更接近参考图的质感。",
-  "sha256": "f80b686cc43dd8c8e354d128a3710cd3bb6b06bf51c51b35057b660bf35dd401"
+  "version": "4.2.15",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.15",
+  "notes": "优化字体清晰度：启用 Windows DPI 感知，统一界面字体为 Microsoft YaHei UI，主按钮和常用控件字号略微上调，减少字体发糊和低像素感。",
+  "sha256": "cd82c0ef4f85705f97b7042edb5b10365810d759ef03f57756eb38da2d7c15fd"
 }
