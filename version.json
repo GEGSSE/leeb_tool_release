@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "4.2.1",
+    "version":  "4.2.2",
     "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
-    "notes":  "新增左侧图片列表拖拽导入；右上角新增开始识别快捷按钮。",
-    "sha256":  "957d5f2814443b5f168eb4d78e5a70c534eac55109435345ecf08efd48002b51"
+    "notes":  "修复配置里 API Key 异常格式导致点击开始识别后无法正常请求；添加/拖拽图片后自动选中第一张新增图片。",
+    "sha256":  "7e7117f531bf9e397921108cffd3f85954b4b44205e60650b5baf15c1a795bf3"
 }
