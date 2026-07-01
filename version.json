@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "4.2.2",
+    "version":  "4.2.3",
     "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
-    "notes":  "修复配置里 API Key 异常格式导致点击开始识别后无法正常请求；添加/拖拽图片后自动选中第一张新增图片。",
-    "sha256":  "7e7117f531bf9e397921108cffd3f85954b4b44205e60650b5baf15c1a795bf3"
+    "notes":  "修复“复制全部”会复制历史已识别图片数据的问题，现在只复制当前右侧表格显示的数据。",
+    "sha256":  "ec183f81bb00a2304c81c59fa8e6a20ac2c4f84deb3f82ee722a3765026c2318"
 }
