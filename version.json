@@ -1,6 +1,6 @@
 {
-  "version": "4.2.11",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.11",
-  "notes": "优化界面按钮和主题配色：统一按钮间距、悬停反馈和禁用状态；去掉按钮里的符号前缀；暗色/亮色主题更清爽。",
-  "sha256": "d40bf29738f12670054cd594662d45d37f1ebf38cb225f9c4f56f0695799cbb0"
+  "version": "4.2.12",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.12",
+  "notes": "按钮进一步优化：改为自绘圆角 3D 按钮，增加底部阴影、顶部高光和按下反馈；调整按钮高度和留白；待识别/已识别也改成圆角分段按钮；修复预览工具条暗色主题下的白底。",
+  "sha256": "ad610e84cab774facae592468e318b899b7f092e41d4dd40fedff361fc992f4c"
 }
