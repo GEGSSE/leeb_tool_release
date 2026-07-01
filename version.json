@@ -1,6 +1,6 @@
 {
-  "version": "4.2.12",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.12",
-  "notes": "按钮进一步优化：改为自绘圆角 3D 按钮，增加底部阴影、顶部高光和按下反馈；调整按钮高度和留白；待识别/已识别也改成圆角分段按钮；修复预览工具条暗色主题下的白底。",
-  "sha256": "ad610e84cab774facae592468e318b899b7f092e41d4dd40fedff361fc992f4c"
+  "version": "4.2.13",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.13",
+  "notes": "按钮改成水晶玻璃风格：默认透明、白色高光边框和轻微阴影；鼠标悬停后才显示对应功能色；选中的待识别/已识别分段按钮保留颜色用于状态区分。",
+  "sha256": "f8c44b395d3c7adcbc44d1dc3b8cbb4e6d6fdd481ec80343dfd4ab335ce15ef6"
 }
