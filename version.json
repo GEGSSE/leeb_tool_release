@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "4.2.3",
+    "version":  "4.2.4",
     "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe",
-    "notes":  "修复“复制全部”会复制历史已识别图片数据的问题，现在只复制当前右侧表格显示的数据。",
-    "sha256":  "ec183f81bb00a2304c81c59fa8e6a20ac2c4f84deb3f82ee722a3765026c2318"
+    "notes":  "修复缺少 config.json 或未填写 update.url 时无法检查更新的问题；现在内置公开更新地址，config.json 主要用于 OCR Key。",
+    "sha256":  "ae63621f1ba54e77d3939fd2b3c694f986bc0fd672dfcf4f7ce5bf53dcdfe3b7"
 }
