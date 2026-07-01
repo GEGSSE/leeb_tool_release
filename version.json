@@ -1,6 +1,6 @@
 {
-    "version":  "4.2.8",
-    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.8",
-    "notes":  "修复 config.json 带 BOM 导致程序读不到 OCR API Key、点击开始识别后看起来没处理的问题；识别失败时会保留失败原因。",
-    "sha256":  "e091cf6671ea302a9818169ae793cdcdd32df18e5193a08943003ef0c98cb7b6"
+    "version":  "4.2.9",
+    "download_url":  "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.9",
+    "notes":  "增加识别前配置检查和 leeb_tool.log 日志；窗口标题显示真实版本号；如果读取不到 OCR API Key 会直接弹窗显示 config.json 路径，避免看起来像点击后没处理。",
+    "sha256":  "c3e0b62ee34ce6e5014311c63eddd0ecd7a41ed15009a67e388bab438155284b"
 }
