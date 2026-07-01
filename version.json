@@ -1,6 +1,6 @@
 {
-  "version": "4.2.10",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.10",
-  "notes": "修复电脑环境变量里的旧 ModelScope Key 覆盖 config.json 的问题；现在优先使用同目录 config.json 里的 ocr.api_key，并在日志里记录 Key 来源；401 错误会提示 API Key 无效或无权限。",
-  "sha256": "9d3f299b928b2d5a2c73b65895ff55a6d6f33aa87749235e51bf0f12f75381a9"
+  "version": "4.2.11",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.11",
+  "notes": "优化界面按钮和主题配色：统一按钮间距、悬停反馈和禁用状态；去掉按钮里的符号前缀；暗色/亮色主题更清爽。",
+  "sha256": "d40bf29738f12670054cd594662d45d37f1ebf38cb225f9c4f56f0695799cbb0"
 }
