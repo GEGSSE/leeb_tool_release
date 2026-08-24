@@ -1,6 +1,6 @@
 {
-  "version": "4.2.18",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.18",
-  "notes": "把文件改名入口移到顶部页签区域，点击后主界面整体切换为内嵌改名页面，像 tab 页面一样在图片识别和文件改名之间切换，并移除左侧重复入口。",
-  "sha256": "4e1d481ce47e172a13cd361d05b08aa93099c87f95e05db4761d1da2db82beae"
+  "version": "4.2.19",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.19",
+  "notes": "文件改名页面新增 PDF 全页批量旋转，默认改名并顺时针旋转 90°，支持仅改名、仅旋转和保留原文件。",
+  "sha256": "4c31c20364ea8d24a4e9ea0dc7072d74b90820cf39b0e691fdea9c15ea5d3971"
 }
