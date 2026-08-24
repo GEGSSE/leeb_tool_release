@@ -1,6 +1,6 @@
 {
-  "version": "4.2.16",
-  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.16",
-  "notes": "新增批量文件改名工具：支持选择或拖拽文件夹，按文件名自然排序生成预览，支持规则改名和逐行填写新名字，执行前确认，并使用两阶段改名避免覆盖。",
-  "sha256": "a685d2829356197ecb73b38e17754e77b1f7cc1baf6c4b058cf2e9bbf6e20e1d"
+  "version": "4.2.17",
+  "download_url": "https://raw.githubusercontent.com/GEGSSE/leeb_tool_release/main/leeb_tool.exe?v=4.2.17",
+  "notes": "优化批量文件改名工具：默认使用逐行填写新名字，规则模式改名为按数字规则顺序填充，增强模式选中颜色，加宽左侧导航栏，并让原文件名和新文件名用不同颜色区分。",
+  "sha256": "a3b5bfababc69d4aca2a58cfe705a5a2643977224f796a19f7cff36cfc200d7a"
 }
